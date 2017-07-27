@@ -1,6 +1,6 @@
 {
-	"prefix": "bot prefix",
-	"token": "bot token",
-	"ownerID": "your id",
-	"adminID": "your admin id"
+	"prefix": "!", // Default is ! Change it to whatever you like!
+	"token": "TOKEN", // The Bot's token. Used to connect to Discord
+	"ownerID": "OWNERID", // Your ID. To use the shutdown commands and etc.
+	"adminID": "ADMINID" // Your Admin/Friend's ID. Gives Access to Owner Commands
 }
