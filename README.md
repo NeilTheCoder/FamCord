@@ -42,4 +42,4 @@
 ## Paypal
 - **[Click Me!](https://paypal.me/bulbadiscordbot)**
 ## Patreon
-- **[None Yet!](https://www.patreon.com/gengarbot)**
+- **[Click Me!](https://www.patreon.com/gengarbot)**
