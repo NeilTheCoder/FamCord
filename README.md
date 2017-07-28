@@ -31,15 +31,15 @@
 # Staff Members
 
 ## Owners
-- **Neil#8331**  
+- **PepperJS#7290**  
 - **Midnight Serpent💫#5172**
 
 ## Admins
-- **None**
+- **Neil#8331**
 
 # Support Us!
 
 ## Paypal
 - **[Click Me!](https://paypal.me/bulbadiscordbot)**
 ## Patreon
-- **[None Yet!](https://github.com/NeilTheCoder/Gengar)**
+- **[None Yet!](https://www.patreon.com/gengarbot)**
