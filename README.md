@@ -1,3 +1,7 @@
+<title>
+Gengar the Discord Bot!
+</title>
+
 # Installation
 
    -**Available Versions to Install On:**  
