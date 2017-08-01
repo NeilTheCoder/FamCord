@@ -13,5 +13,6 @@ module.exports = message => {
 		cmdFile.run(client, message, args);
 	} catch (err) {
 		console.log(`Command ${command} failed\n${err.stack}`);
+		message.channel.send(`**Can't find command \`\n${settings.prefix}${command}\`\! \nPlease contact the Owner \`\n${client.users.get(settings.ownerID).tag}\`\ about this!**`)
 	}
 };
