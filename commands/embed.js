@@ -1,14 +1,24 @@
-const Discord = require('discord.js');
+const Discord = require('discord.js')
+const c = require('../settings.json');
+exports.run = (bot, m, args) => {
+m.delete();
 const embed = new Discord.RichEmbed();
-
-exports.run = function(client, message, args) {
-message.delete();
 let msg = args.join(' ');
-embed.setAuthor(message.author.tag, message.author.avatarURL)
-  /*
-   * Alternatively, use "#00AE86", [0, 174, 134] or an integer number.
-   */
+if(!msg)
+return m.channel.send(`**Please add a Text to say!**`);
 embed.setColor('RANDOM')
 embed.setDescription(msg)
-message.channel.send({embed});
-}
+m.channel.send({embed})
+};
+
+exports.conf = {
+  hidden: true,
+  aliases: ['embed', 'embed'],
+  permLevel: 0
+};
+
+exports.help = {
+    name: 'embed',
+    usage: `${c.prefix}embed [text]`,
+    description: 'Sends a message via embeds',
+};
