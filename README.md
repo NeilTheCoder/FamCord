@@ -43,3 +43,7 @@
 - **[Click Me!](https://paypal.me/bulbadiscordbot)**
 ## Patreon
 - **[Click Me!](https://www.patreon.com/gengarbot)**
+
+### Note:
+**Neil: Hey guys! I quitted this, transfered my Project to PepperJS, well goodbye!**  
+**PepperJS: Don't worry guys, i have the more Updated Code! We're doing everything we can to add it.
