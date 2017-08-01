@@ -1,6 +1,8 @@
-<title>
-Gengar the Discord Bot!
-</title>
+<html>  
+<title>  
+Gengar the Discord Bot!  
+</title>  
+</html>
 
 # Installation
 
