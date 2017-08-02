@@ -46,4 +46,4 @@
 
 ### Note:
 **Neil: Hey guys! I quitted this, transfered my Project to PepperJS, well goodbye!**  
-**PepperJS: Don't worry guys, i have the more Updated Code! We're doing everything we can to add it.
+**PepperJS: Don't worry guys, i have the more Updated Code! We're doing everything we can to add it.**
